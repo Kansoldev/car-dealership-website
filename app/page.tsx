@@ -1,3 +1,9 @@
+import Header from "@/components/Header";
+
 export default function Home() {
-  return <h1 className="font-semibold text-xl p-3">Car dealership site</h1>;
+  return (
+    <>
+      <Header />
+    </>
+  );
 }
