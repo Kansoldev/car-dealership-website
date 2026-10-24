@@ -1,9 +1,4 @@
-const stats = [
-  ["500+", "cars sold"],
-  ["150-point", "inspection"],
-  ["100%", "verified papers"],
-  ["4.9★", "customer rating"],
-];
+import { stats } from "@/lib/site";
 
 function TrustBar() {
   return (
