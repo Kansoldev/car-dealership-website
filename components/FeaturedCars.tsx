@@ -6,10 +6,8 @@ function FeaturedCars() {
   return (
     <section>
       <div className="max-w-6xl mx-auto px-4 py-14 md:py-20">
-        <div className="mb-6 flex flex-col md:flex-row md:items-center justify-between">
-          <h2 className="text-2xl font-bold md:text-3xl">
-            Discover Featured Cars
-          </h2>
+        <div className="flex flex-col md:flex-row md:items-center justify-between mb-4">
+          <h2 className="text-2xl font-bold">Discover Featured Cars</h2>
 
           <Link
             href="/inventory"
