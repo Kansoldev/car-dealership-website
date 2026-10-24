@@ -5,6 +5,7 @@ import FeaturedCars from "@/components/FeaturedCars";
 import HowItWorks from "@/components/HowItWorks";
 import Footer from "@/components/Footer";
 import FAQ from "@/components/FAQ";
+import VisitCta from "@/components/VisitCta";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <FeaturedCars />
       <HowItWorks />
       <FAQ />
+      <VisitCta />
       <Footer />
     </>
   );
