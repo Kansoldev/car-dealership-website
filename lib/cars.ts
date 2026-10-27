@@ -150,5 +150,5 @@ export const cars: Car[] = raw.map((c) => ({
 
 export const getCar = (id: string) => cars.find((c) => c.id === id);
 export const makes = Array.from(new Set(cars.map((c) => c.make)));
-export const bodyTypes = ["Sedan", "SUV"] as const;
+export const carTypes = ["New", "Tokunbo", "Used"] as const;
 export const formatKm = (km: number) => `${km.toLocaleString("en-NG")} km`;
