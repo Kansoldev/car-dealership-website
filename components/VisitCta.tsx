@@ -9,7 +9,7 @@ const VisitCta = () => {
 
       <div className="relative max-w-6xl mx-auto px-4 py-12 text-center">
         <h2 className="text-3xl md:text-5xl font-bold">
-          Ready to see your car in person?
+          Want to check a car in person?
         </h2>
 
         <p className="mt-5 text-white/80">
