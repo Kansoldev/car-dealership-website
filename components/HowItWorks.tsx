@@ -8,13 +8,13 @@ const steps = [
   ],
   [
     "💬",
-    "2. Ask about one car",
-    "One tap opens WhatsApp with the car already named. No repeat questions.",
+    "2. Ask about a car",
+    "Chat with any of our representatives to get any questions you have about a car answered as quickly as possible.",
   ],
   [
     "🔑",
     "3. Inspect and drive",
-    "Book a test drive, verify the papers and drive home.",
+    "Book a test drive, verify the papers and drive your dream car home.",
   ],
 ];
 
