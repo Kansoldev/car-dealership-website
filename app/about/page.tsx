@@ -51,11 +51,11 @@ export default function AboutPage() {
 
       <section className="mx-auto grid max-w-6xl gap-10 px-4 py-14 md:grid-cols-2">
         <div>
-          <h2 className="text-3xl font-bold">Our story</h2>
+          <h2 className="text-3xl font-bold">Who we are</h2>
           <p className="mt-4 max-w-prose text-muted-foreground">
-            {site.name} started in 2016 with three cars and a simple rule: only
-            sell a car we would put our own family in. Today, we help hundreds
-            of drivers find a car they can afford and rely on.
+            {site.name} is a car dealership company that operates with a simple
+            rule: only sell a car we would put our own family in. Today, we help
+            drivers across Nigeria find a car they can afford and rely on.
           </p>
 
           <p className="mt-4 max-w-prose text-muted-foreground">
